@@ -449,6 +449,11 @@ ping 192.168.20.2
 ![Prueba de conectividad](images/PingVLAN.png "Prueba de conectividad")
 
 
+La topología ideal sería este para poder expandirse con facilidad y tener el switch core intacto
+
+![Topología ideal](images/Cisco2_2.png "Topologia ideal")
+
+
 
 ### Referencias
 
