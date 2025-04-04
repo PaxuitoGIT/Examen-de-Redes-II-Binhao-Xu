@@ -1,4 +1,6 @@
-# Secretito
+# Link del repositorio
+
+https://paxuitogit.github.io/Examen-de-Redes-II-Binhao-Xu/
 
 # Parte 1: Conceptos y Teoría
 
