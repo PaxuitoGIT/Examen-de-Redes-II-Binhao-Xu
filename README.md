@@ -1,5 +1,9 @@
 # Link del repositorio
 
+https://github.com/PaxuitoGIT/Examen-de-Redes-II-Binhao-Xu.git
+
+# Link de Github Pages
+
 https://paxuitogit.github.io/Examen-de-Redes-II-Binhao-Xu/
 
 # Parte 1: Conceptos y Teoría
